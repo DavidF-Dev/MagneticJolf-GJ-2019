@@ -1,6 +1,8 @@
 # Magnetic Jolf (Game Jam) (July 2019)
 Magnetic Jolf is a Game Jam game created by myself and other AIE students.
 
+**Download on itch.io: [https://davidf-dev.itch.io/magnetic-jolf](https://davidf-dev.itch.io/magnetic-jolf)**
+
 The Game Jam was held at AIE Campus Canberra on July 2019. The theme of the jam was **It's not you. It's me.**<br>
 Our group consisted of five members: one artist, two designers and myself as the programmer. We were given one weekend to create a game that somewhat related to the theme.
 
@@ -16,12 +18,12 @@ This was my very first Game Jam experience. I am proud of what we, as a team, ac
 
 ## Credits & Acknowledgements
 ### Design
-- Matthew Eccles
+- Mateusz Solle
 - Christopher Selleck
 ### Art
-- Alexander Murphy
+- [Alexander Murphy](https://alexmurphy3darts.artstation.com/)
 ### Programming
-- David Flintoft
+- [David Flintoft](https://www.davidfdev.com/)
 
 </br></br><br><br>
 <img src="aie_logo_clr.jpg" alt="Academy of Interactive Entertainment" width=250px height=250px/><br>
